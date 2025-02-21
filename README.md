@@ -28,7 +28,7 @@ exercism-rust/
 
 | Exercise | Status |
 |----------|--------|
-| [Exercise Name] | ✅ Completed |
+| Reverse String | ✅ Completed |
 
 ## 📝 License
 
