@@ -30,6 +30,7 @@ exercism-rust/
 |----------|--------|
 | Reverse String | ✅ Completed |
 | Gigasecond | ✅ Completed |
+| Clock | ✅ Completed |
 
 ## 📝 License
 
