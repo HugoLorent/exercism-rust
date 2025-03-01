@@ -29,6 +29,7 @@ exercism-rust/
 | Exercise | Status |
 |----------|--------|
 | Reverse String | ✅ Completed |
+| Gigasecond | ✅ Completed |
 
 ## 📝 License
 
