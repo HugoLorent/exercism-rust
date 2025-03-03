@@ -40,7 +40,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Exercism Rust Track](https://exercism.org/tracks/rust)
 - [Rust Documentation](https://doc.rust-lang.org/book/)
-- [My Exercism Profile](https://exercism.org/profiles/YourUsername)
+- [My Exercism Profile](https://exercism.org/profiles/HugoLorent)
 
 ---
 Happy Coding! 🦀
