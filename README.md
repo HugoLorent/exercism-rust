@@ -31,6 +31,7 @@ exercism-rust/
 | Reverse String | ✅ Completed |
 | Gigasecond | ✅ Completed |
 | Clock | ✅ Completed |
+| Anagram | ✅ Completed |
 
 ## 📝 License
 
