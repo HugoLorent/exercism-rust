@@ -32,6 +32,7 @@ exercism-rust/
 | Gigasecond | ✅ Completed |
 | Clock | ✅ Completed |
 | Anagram | ✅ Completed |
+| Space Age | ✅ Completed |
 
 ## 📝 License
 
