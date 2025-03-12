@@ -33,6 +33,7 @@ exercism-rust/
 | Clock | ✅ Completed |
 | Anagram | ✅ Completed |
 | Space Age | ✅ Completed |
+| Sublist | ✅ Completed |
 
 ## 📝 License
 
