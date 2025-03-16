@@ -35,10 +35,6 @@ exercism-rust/
 | Space Age | ✅ Completed |
 | Sublist | ✅ Completed |
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🔗 Useful Links
 
 - [Exercism Rust Track](https://exercism.org/tracks/rust)
