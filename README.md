@@ -34,6 +34,7 @@ exercism-rust/
 | Anagram | ✅ Completed |
 | Space Age | ✅ Completed |
 | Sublist | ✅ Completed |
+| Minesweeper | ✅ Completed |
 
 ## 🔗 Useful Links
 
