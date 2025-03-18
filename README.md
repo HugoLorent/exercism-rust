@@ -35,6 +35,7 @@ exercism-rust/
 | Space Age | ✅ Completed |
 | Sublist | ✅ Completed |
 | Minesweeper | ✅ Completed |
+| Luhn | ✅ Completed |
 
 ## 🔗 Useful Links
 
