@@ -36,6 +36,7 @@ exercism-rust/
 | Sublist | ✅ Completed |
 | Minesweeper | ✅ Completed |
 | Luhn | ✅ Completed |
+| Armstrong Numbers | ✅ Completed |
 
 ## 🔗 Useful Links
 
