@@ -37,6 +37,7 @@ exercism-rust/
 | Minesweeper | ✅ Completed |
 | Luhn | ✅ Completed |
 | Armstrong Numbers | ✅ Completed |
+| Bottle Song | ✅ Completed |
 
 ## 🔗 Useful Links
 
