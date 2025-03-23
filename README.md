@@ -39,6 +39,7 @@ exercism-rust/
 | Armstrong Numbers | ✅ Completed |
 | Bottle Song | ✅ Completed |
 | Difference of Squares | ✅ Completed |
+| Grains | ✅ Completed |
 
 ## 🔗 Useful Links
 
