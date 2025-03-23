@@ -38,6 +38,7 @@ exercism-rust/
 | Luhn | ✅ Completed |
 | Armstrong Numbers | ✅ Completed |
 | Bottle Song | ✅ Completed |
+| Difference of Squares | ✅ Completed |
 
 ## 🔗 Useful Links
 
