@@ -40,6 +40,7 @@ exercism-rust/
 | Bottle Song | ✅ Completed |
 | Difference of Squares | ✅ Completed |
 | Grains | ✅ Completed |
+| Leap | ✅ Completed |
 
 ## 🔗 Useful Links
 
