@@ -42,6 +42,7 @@ exercism-rust/
 | Grains | ✅ Completed |
 | Leap | ✅ Completed |
 | Nth Prime | ✅ Completed |
+| Prime Factors | ✅ Completed |
 
 ## 🔗 Useful Links
 
