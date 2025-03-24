@@ -43,6 +43,7 @@ exercism-rust/
 | Leap | ✅ Completed |
 | Nth Prime | ✅ Completed |
 | Prime Factors | ✅ Completed |
+| Proverb | ✅ Completed |
 
 ## 🔗 Useful Links
 
