@@ -45,6 +45,7 @@ exercism-rust/
 | Prime Factors | ✅ Completed |
 | Proverb | ✅ Completed |
 | Raindrops | ✅ Completed |
+| Sum of Multiples | ✅ Completed |
 
 ## 🔗 Useful Links
 
