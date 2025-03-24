@@ -41,6 +41,7 @@ exercism-rust/
 | Difference of Squares | ✅ Completed |
 | Grains | ✅ Completed |
 | Leap | ✅ Completed |
+| Nth Prime | ✅ Completed |
 
 ## 🔗 Useful Links
 
