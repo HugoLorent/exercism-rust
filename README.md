@@ -44,6 +44,7 @@ exercism-rust/
 | Nth Prime | ✅ Completed |
 | Prime Factors | ✅ Completed |
 | Proverb | ✅ Completed |
+| Raindrops | ✅ Completed |
 
 ## 🔗 Useful Links
 
