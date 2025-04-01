@@ -46,6 +46,7 @@ exercism-rust/
 | Proverb | ✅ Completed |
 | Raindrops | ✅ Completed |
 | Sum of Multiples | ✅ Completed |
+| Bob | ✅ Completed |
 
 ## 🔗 Useful Links
 
