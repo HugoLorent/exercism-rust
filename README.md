@@ -47,6 +47,7 @@ exercism-rust/
 | Raindrops | ✅ Completed |
 | Sum of Multiples | ✅ Completed |
 | Bob | ✅ Completed |
+| High Scores | ✅ Completed |
 
 ## 🔗 Useful Links
 
