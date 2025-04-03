@@ -48,6 +48,7 @@ exercism-rust/
 | Sum of Multiples | ✅ Completed |
 | Bob | ✅ Completed |
 | High Scores | ✅ Completed |
+| Matching Brackets | ✅ Completed |
 
 ## 🔗 Useful Links
 
