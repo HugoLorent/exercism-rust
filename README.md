@@ -50,6 +50,7 @@ exercism-rust/
 | High Scores | ✅ Completed |
 | Matching Brackets | ✅ Completed |
 | Collatz Conjecture | ✅ Completed |
+| Series | ✅ Completed |
 
 ## 🔗 Useful Links
 
