@@ -49,6 +49,7 @@ exercism-rust/
 | Bob | ✅ Completed |
 | High Scores | ✅ Completed |
 | Matching Brackets | ✅ Completed |
+| Collatz Conjecture | ✅ Completed |
 
 ## 🔗 Useful Links
 
