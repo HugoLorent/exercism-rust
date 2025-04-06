@@ -51,6 +51,7 @@ exercism-rust/
 | Matching Brackets | ✅ Completed |
 | Collatz Conjecture | ✅ Completed |
 | Series | ✅ Completed |
+| Kindergarten Garden | ✅ Completed |
 
 ## 🔗 Useful Links
 
