@@ -52,6 +52,7 @@ exercism-rust/
 | Collatz Conjecture | ✅ Completed |
 | Series | ✅ Completed |
 | Kindergarten Garden | ✅ Completed |
+| Eliud's Eggs | ✅ Completed |
 
 ## 🔗 Useful Links
 
