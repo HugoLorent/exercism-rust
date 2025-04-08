@@ -53,6 +53,7 @@ exercism-rust/
 | Series | ✅ Completed |
 | Kindergarten Garden | ✅ Completed |
 | Eliud's Eggs | ✅ Completed |
+| Acronym | ✅ Completed |
 
 ## 🔗 Useful Links
 
