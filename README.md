@@ -55,6 +55,7 @@ exercism-rust/
 | Eliud's Eggs | ✅ Completed |
 | Acronym | ✅ Completed |
 | All Your Base | ✅ Completed |
+| Allergies | ✅ Completed |
 
 ## 🔗 Useful Links
 
